@@ -1,6 +1,6 @@
 # Wenxig
 
-- :cn:中国人，高中生，前端的推崇者
+- 中国人，高中生，前端的推崇者
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=wenxig&show_icons=true&theme=transparent&locale=cn)](https://github.com/wenxig)
 
@@ -8,4 +8,9 @@
 
 ## 代表作
 
-[![bika-comic](https://github-readme-stats.vercel.app/api/pin/?username=wenxig&repo=bika-comic)](https://github.com/wenxig/bika-comic)
+### 巴别塔工程
+
+[![delta-comic](https://github-readme-stats.vercel.app/api/pin/?username=wenxig&repo=delta-comic)](https://github.com/wenxig/delta-comic)
+[![delta-comic-core](https://github-readme-stats.vercel.app/api/pin/?username=wenxig&repo=delta-comic-core)](https://github.com/wenxig/delta-comic-core)
+[![delta-comic-plugin-bika](https://github-readme-stats.vercel.app/api/pin/?username=wenxig&repo=delta-comic-plugin-bika)](https://github.com/wenxig/delta-comic-plugin-bika)
+[![delta-comic-plugin-jmcomic](https://github-readme-stats.vercel.app/api/pin/?username=wenxig&repo=delta-comic-plugin-jmcomic)](https://github.com/wenxig/delta-comic-plugin-jmcomic)
