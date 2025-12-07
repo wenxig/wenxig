@@ -1,16 +1,19 @@
-# Wenxig
 
-- 中国人，高中生，前端的推崇者
+<a href="#">
+  <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=wenxig&show_icons=true&text_color=303f64&title_color=080a44&icon_color=080a44&count_private=true" />
+</a>
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=wenxig&show_icons=true&theme=transparent&locale=cn)](https://github.com/wenxig)
+👋 我是Wenxig
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenxig&layout=compact&locale=cn)](https://github.com/wenxig)
+我是一名走读高中生，对前端十分感兴趣，并发布了多个代码库，我最喜欢的是[Delta Comic](https://github.com/wenxig/delta-comic)
 
-## 代表作
+💻 **统计数据**
+[![wakatime](https://wakatime.com/badge/user/018cf362-35ff-48f2-af6b-61f09a441de4.svg)](https://wakatime.com/@018cf362-35ff-48f2-af6b-61f09a441de4)
 
-### 巴别塔工程
+<details>
+  <summary详细</summary>
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-[![delta-comic](https://github-readme-stats.vercel.app/api/pin/?username=wenxig&repo=delta-comic)](https://github.com/wenxig/delta-comic)
-[![delta-comic-core](https://github-readme-stats.vercel.app/api/pin/?username=wenxig&repo=delta-comic-core)](https://github.com/wenxig/delta-comic-core)
-[![delta-comic-plugin-bika](https://github-readme-stats.vercel.app/api/pin/?username=wenxig&repo=delta-comic-plugin-bika)](https://github.com/wenxig/delta-comic-plugin-bika)
-[![delta-comic-plugin-jmcomic](https://github-readme-stats.vercel.app/api/pin/?username=wenxig&repo=delta-comic-plugin-jmcomic)](https://github.com/wenxig/delta-comic-plugin-jmcomic)
+</details>
