@@ -1,6 +1,6 @@
 
 <a href="#">
-  <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=wenxig&show_icons=true&text_color=303f64&title_color=080a44&icon_color=080a44&count_private=true" />
+  <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=wenxig&show_icons=true&count_private=true&theme=transparent&locale=cn" />
 </a>
 
 👋 我是Wenxig
