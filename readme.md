@@ -6,6 +6,10 @@
 👋 我是Wenxig
 
 我是一名走读高中生，对前端十分感兴趣，并发布了多个代码库，我最喜欢的是[Delta Comic](https://github.com/wenxig/delta-comic)
+。
+
+
+
 
 💻 **统计数据**
 
