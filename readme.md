@@ -16,7 +16,7 @@
 [![wakatime](https://wakatime.com/badge/user/018cf362-35ff-48f2-af6b-61f09a441de4.svg)](https://wakatime.com/@018cf362-35ff-48f2-af6b-61f09a441de4)
 
 <details>
-  <summary详细</summary>
+  <summary>详细</summary>
   
 <!--START_SECTION:waka-->
 
