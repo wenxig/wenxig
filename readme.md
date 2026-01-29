@@ -22,15 +22,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2025 - To: 27 January 2026
+From: 29 December 2025 - To: 28 January 2026
 
-Total Time: 104 hrs 42 mins
+Total Time: 104 hrs 23 mins
 
-TypeScript   51 hrs 29 mins  ████████████▒░░░░░░░░░░░░   49.12 %
-Vue.js       17 hrs 4 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
-Rust         11 hrs 44 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
-JSON         9 hrs 20 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
-TOML         5 hrs 26 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+TypeScript   52 hrs 4 mins   ████████████▒░░░░░░░░░░░░   49.72 %
+Vue.js       16 hrs 45 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
+Rust         12 hrs 31 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
+JSON         8 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+TOML         5 hrs 16 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
 ```
 
 <!--END_SECTION:waka-->
