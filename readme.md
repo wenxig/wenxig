@@ -1,11 +1,11 @@
 
 <a href="#">
-  <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=wenxig&show_icons=true&count_private=true&theme=transparent&locale=cn" />
+  <img align="right" src="https://wenxig-grs.vercel.app/api?username=wenxig&show_icons=true&count_private=true&theme=transparent&locale=cn" alt="不是完美段位" />
 </a>
 
 👋 我是Wenxig
 
-我是一名走读高中生，对前端十分感兴趣，并发布了多个代码库，其中我最喜欢的是[Delta Comic](https://github.com/wenxig/delta-comic)
+我是一名走读高中生，对前端十分感兴趣，并发布了多个代码库，其中我最喜欢的是[Delta Comic](https://github.com/delta-comic/delta-comic)
 
 我希望为世界做出贡献，哪怕只是改变了几个人的生活方式，所以我走向了编程这条路。
 
