@@ -43,7 +43,7 @@ export const siteConfig: SiteConfig = {
     friends: false, // 友链页面开关
     projects: true, // 项目页面开关
     skills: true, // 技能页面开关
-    timeline: true, // 时间线页面开关
+    timeline: false, // 时间线页面开关
     albums: false, // 相册页面开关
     devices: false, // 设备页面开关
   },
@@ -238,6 +238,7 @@ export const navBarConfig: NavBarConfig = {
   links: [
     LinkPreset.Home,
     LinkPreset.Archive,
+    LinkPreset.Projects,
     // 支持自定义导航栏链接，支持多级菜单
     {
       name: "Links",
@@ -258,28 +259,7 @@ export const navBarConfig: NavBarConfig = {
         },
       ],
     },
-    {
-      name: "My",
-      url: "#",
-      icon: "material-symbols:person",
-      children: [
-        {
-          name: "Projects",
-          url: "/projects/",
-          icon: "material-symbols:work",
-        },
-        {
-          name: "Skills",
-          url: "/skills/",
-          icon: "material-symbols:psychology",
-        },
-        {
-          name: "Timeline",
-          url: "/timeline/",
-          icon: "material-symbols:timeline",
-        },
-      ],
-    },
+    LinkPreset.Skills
   ],
 }
 
