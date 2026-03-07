@@ -27,6 +27,8 @@ import "../styles/wallpaper-navbar-transparent.css";
 import "../styles/fancybox-custom.css";
 import "../styles/expressive-code.css";
 import "../styles/panel-animations.css";
+import SpeedInsights from "@vercel/speed-insights/astro"
+import Analytics from '@vercel/analytics/astro'
 
 interface Props {
 	title?: string;
@@ -395,6 +397,8 @@ if (siteConfig.font) {
 		{shouldShowTopHighlight && <div class="top-gradient-highlight" />}
 
 		<ConfigCarrier />
+    <SpeedInsights />
+    <Analytics />
 		<slot />
 
 		<!-- Music Player - 仅在启用时加载 -->
