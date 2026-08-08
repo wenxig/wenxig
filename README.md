@@ -5,7 +5,7 @@
 
 👋 我是Wenxig
 
-我是一名走读高中生，对前端十分感兴趣，并发布了多个代码库，其中我最喜欢的是[Delta Comic](https://github.com/delta-comic/delta-comic)
+我是一名高中生，对前端十分感兴趣，并发布了多个代码库，其中我最喜欢的是[Delta Comic](https://github.com/delta-comic/delta-comic)
 
 我希望为世界做出贡献，哪怕只是改变了几个人的生活方式，所以我走向了编程这条路。
 
