@@ -35,3 +35,5 @@ Rust                               3 hrs 27 mins         █▒░░░░░�
 <!--END_SECTION:waka-->
 
 </details>
+
+> 赐我一场天才程序员的梦...
